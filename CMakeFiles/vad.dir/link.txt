@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libvad.so -o libvad.so CMakeFiles/vad.dir/vad_process.c.o CMakeFiles/vad.dir/vad.c.o 

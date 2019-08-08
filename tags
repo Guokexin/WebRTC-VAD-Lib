@@ -1,0 +1,620 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	298;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	304;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	307;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	310;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+ARCHITECTURE_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+AllPassFilter	./vad.c	/^static void AllPassFilter(const int16_t *data_in, size_t data_length,$/;"	f	file:
+CLOCK_MONOTONIC	./timing.h	16;"	d
+CMAKE_BINARY_DIR	./Makefile	/^CMAKE_BINARY_DIR = \/root\/src\/magics_vad$/;"	m
+CMAKE_COMMAND	./Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_EDIT_COMMAND	./Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_SOURCE_DIR	./Makefile	/^CMAKE_SOURCE_DIR = \/root\/src\/magics_vad$/;"	m
+COMMON_AUDIO_VAD_INCLUDE_WEBRTC_VAD_H_	./vad.h	17;"	d
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	160;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	70;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	127;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	135;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	154;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	162;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	193;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	55;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	61;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	75;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	82;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	93;"	d	file:
+COMPILER_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	135;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	154;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	15;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	72;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	14;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	156;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	173;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	20;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	69;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MAJOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	109;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	127;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	136;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	26;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	106;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	114;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	120;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	31;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	39;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_MINOR	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	156;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	17;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	187;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	35;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	81;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	95;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	100;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	121;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	22;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_PATCH	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+COMPILER_VERSION_TWEAK	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_VERSION_TWEAK	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_TWEAK	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_VERSION_TWEAK	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+DEC	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	324;"	d	file:
+DEC	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	317;"	d	file:
+DRWAV_ASSERT	./dr_wav.h	685;"	d
+DRWAV_COPY_MEMORY	./dr_wav.h	697;"	d
+DRWAV_FALSE	./dr_wav.h	142;"	d
+DRWAV_FREE	./dr_wav.h	694;"	d
+DRWAV_INLINE	./dr_wav.h	717;"	d
+DRWAV_INLINE	./dr_wav.h	720;"	d
+DRWAV_INLINE	./dr_wav.h	722;"	d
+DRWAV_MALLOC	./dr_wav.h	688;"	d
+DRWAV_MAX_SIMD_VECTOR_SIZE	./dr_wav.h	714;"	d
+DRWAV_REALLOC	./dr_wav.h	691;"	d
+DRWAV_TRUE	./dr_wav.h	141;"	d
+DRWAV_ZERO_MEMORY	./dr_wav.h	700;"	d
+DR_WAVE_FORMAT_ADPCM	./dr_wav.h	150;"	d
+DR_WAVE_FORMAT_ALAW	./dr_wav.h	152;"	d
+DR_WAVE_FORMAT_DVI_ADPCM	./dr_wav.h	154;"	d
+DR_WAVE_FORMAT_EXTENSIBLE	./dr_wav.h	155;"	d
+DR_WAVE_FORMAT_IEEE_FLOAT	./dr_wav.h	151;"	d
+DR_WAVE_FORMAT_MULAW	./dr_wav.h	153;"	d
+DR_WAVE_FORMAT_PCM	./dr_wav.h	149;"	d
+DR_WAV_IMPLEMENTATION	./main.c	9;"	d	file:
+DivW32W16	./vad.c	/^static __inline int32_t DivW32W16(int32_t num, int16_t den) {$/;"	f	file:
+EQUALS	./Makefile	/^EQUALS = =$/;"	m
+GmmProbability	./vad.c	/^static int16_t GmmProbability(VadInstT *self, int16_t *features,$/;"	f	file:
+HEX	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+HEX	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+HighPassFilter	./vad.c	/^static void HighPassFilter(const int16_t *data_in, size_t data_length,$/;"	f	file:
+ID_VOID_MAIN	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	9;"	d	file:
+LogOfEnergy	./vad.c	/^static void LogOfEnergy(const int16_t *data_in, size_t data_length,$/;"	f	file:
+MAX	./main.c	23;"	d	file:
+MIN	./main.c	19;"	d	file:
+NormU32	./vad.c	/^static __inline int16_t NormU32(uint32_t a) {$/;"	f	file:
+NormW32	./vad.c	/^static __inline int16_t NormW32(int32_t a) {$/;"	f	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	212;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	236;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	242;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	257;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	263;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	266;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	272;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	278;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	281;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	287;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	214;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	226;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	235;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	250;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	256;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	262;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	268;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	271;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	277;"	d	file:
+PLATFORM_ID	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+RM	./Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RTC_DCHECK	./vad.h	35;"	d
+RTC_DCHECK_GT	./vad.h	38;"	d
+RTC_DCHECK_IS_ON	./vad.h	27;"	d
+RTC_DCHECK_IS_ON	./vad.h	29;"	d
+RTC_DCHECK_LE	./vad.h	36;"	d
+RTC_DCHECK_LT	./vad.h	37;"	d
+SHELL	./Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIZE_MAX	./dr_wav.h	729;"	d
+SIZE_MAX	./dr_wav.h	731;"	d
+SUFFIXES	./Makefile	/^SUFFIXES =$/;"	m
+SplitFilter	./vad.c	/^static void SplitFilter(const int16_t *data_in, size_t data_length,$/;"	f	file:
+VadInst	./vad.h	/^typedef struct WebRtcVadInst VadInst;$/;"	t	typeref:struct:WebRtcVadInst
+VadInstT	./vad.h	/^} VadInstT;$/;"	t	typeref:struct:VadInstT_
+VadInstT_	./vad.h	/^typedef struct VadInstT_ {$/;"	s
+WIN32_LEAN_AND_MEAN	./timing.h	7;"	d
+WebRtcSpl_Energy	./vad.c	/^int32_t WebRtcSpl_Energy(int16_t *vector,$/;"	f
+WebRtcSpl_GetScalingSquare	./vad.c	/^int16_t WebRtcSpl_GetScalingSquare(int16_t *in_vector,$/;"	f
+WebRtcSpl_GetSizeInBits	./vad.c	/^static __inline int16_t WebRtcSpl_GetSizeInBits(uint32_t n) {$/;"	f	file:
+WebRtcVad_CalcVad8khz	./vad.c	/^int WebRtcVad_CalcVad8khz(VadInstT *inst, const int16_t *speech_frame,$/;"	f
+WebRtcVad_CalculateFeatures	./vad.c	/^int16_t WebRtcVad_CalculateFeatures(VadInstT *self, const int16_t *data_in,$/;"	f
+WebRtcVad_Create	./vad.c	/^VadInst *WebRtcVad_Create() {$/;"	f
+WebRtcVad_FindMinimum	./vad.c	/^int16_t WebRtcVad_FindMinimum(VadInstT *self,$/;"	f
+WebRtcVad_Free	./vad.c	/^void WebRtcVad_Free(VadInst *handle) {$/;"	f
+WebRtcVad_GaussianProbability	./vad.c	/^int32_t WebRtcVad_GaussianProbability(int16_t input,$/;"	f
+WebRtcVad_Init	./vad.c	/^int WebRtcVad_Init(VadInst *handle) {$/;"	f
+WebRtcVad_InitCore	./vad.c	/^int WebRtcVad_InitCore(VadInstT *self) {$/;"	f
+WebRtcVad_Process	./vad.c	/^int WebRtcVad_Process(VadInst *handle, int fs, const int16_t *audio_frame,$/;"	f
+WebRtcVad_set_mode	./vad.c	/^int WebRtcVad_set_mode(VadInst *handle, int mode) {$/;"	f
+WebRtcVad_set_mode_core	./vad.c	/^int WebRtcVad_set_mode_core(VadInstT *self, int mode) {$/;"	f
+WeightedAverage	./vad.c	/^static int32_t WeightedAverage(int16_t *data, int16_t offset,$/;"	f	file:
+__clz_uint32	./vad.c	/^static __inline uint32_t __clz_uint32(uint32_t v) {$/;"	f	file:
+avgBytesPerSec	./dr_wav.h	/^    drwav_uint32 avgBytesPerSec;$/;"	m	struct:__anon10
+bitsPerSample	./dr_wav.h	/^    drwav_uint16 bitsPerSample;$/;"	m	struct:__anon10
+bitsPerSample	./dr_wav.h	/^    drwav_uint16 bitsPerSample;$/;"	m	struct:__anon11
+bitsPerSample	./dr_wav.h	/^    drwav_uint32 bitsPerSample;$/;"	m	struct:__anon9
+blockAlign	./dr_wav.h	/^    drwav_uint16 blockAlign;$/;"	m	struct:__anon10
+bytesPerSample	./dr_wav.h	/^    drwav_uint16 bytesPerSample;$/;"	m	struct:__anon11
+bytesRemaining	./dr_wav.h	/^    drwav_uint64 bytesRemaining;$/;"	m	struct:__anon11
+bytesRemainingInBlock	./dr_wav.h	/^        drwav_uint32 bytesRemainingInBlock;$/;"	m	struct:__anon11::__anon13
+bytesRemainingInBlock	./dr_wav.h	/^        drwav_uint32 bytesRemainingInBlock;$/;"	m	struct:__anon11::__anon14
+cachedSampleCount	./dr_wav.h	/^        drwav_uint32 cachedSampleCount;$/;"	m	struct:__anon11::__anon13
+cachedSampleCount	./dr_wav.h	/^        drwav_uint32 cachedSampleCount;$/;"	m	struct:__anon11::__anon14
+cachedSamples	./dr_wav.h	/^        drwav_int32  cachedSamples[16]; \/\/ Samples are stored in this cache during decoding.$/;"	m	struct:__anon11::__anon14
+cachedSamples	./dr_wav.h	/^        drwav_int32  cachedSamples[4];  \/\/ Samples are stored in this cache during decoding.$/;"	m	struct:__anon11::__anon13
+calcElapsed	./timing.h	/^double calcElapsed(double start, double end) {$/;"	f
+channelMask	./dr_wav.h	/^    drwav_uint32 channelMask;$/;"	m	struct:__anon10
+channels	./dr_wav.h	/^    drwav_uint16 channels;$/;"	m	struct:__anon10
+channels	./dr_wav.h	/^    drwav_uint16 channels;$/;"	m	struct:__anon11
+channels	./dr_wav.h	/^    drwav_uint32 channels;$/;"	m	struct:__anon9
+compressed	./dr_wav.h	/^    } compressed;$/;"	m	struct:__anon11	typeref:struct:__anon11::__anon12
+container	./dr_wav.h	/^    drwav_container container;  \/\/ RIFF, W64.$/;"	m	struct:__anon9
+container	./dr_wav.h	/^    drwav_container container;$/;"	m	struct:__anon11
+currentReadPos	./dr_wav.h	/^    size_t currentReadPos;$/;"	m	struct:__anon7
+currentWritePos	./dr_wav.h	/^    size_t currentWritePos;$/;"	m	struct:__anon8
+data	./dr_wav.h	/^    const drwav_uint8* data;$/;"	m	struct:__anon7
+dataCapacity	./dr_wav.h	/^    size_t dataCapacity;$/;"	m	struct:__anon8
+dataChunkDataPos	./dr_wav.h	/^    drwav_uint64 dataChunkDataPos;$/;"	m	struct:__anon11
+dataChunkDataSize	./dr_wav.h	/^    drwav_uint64 dataChunkDataSize;$/;"	m	struct:__anon11
+dataSize	./dr_wav.h	/^    size_t dataSize;$/;"	m	struct:__anon7
+dataSize	./dr_wav.h	/^    size_t dataSize;$/;"	m	struct:__anon8
+delta	./dr_wav.h	/^        drwav_int32  delta[2];$/;"	m	struct:__anon11::__anon13
+downsampling_filter_states	./vad.h	/^    int32_t downsampling_filter_states[4];$/;"	m	struct:VadInstT_
+dr_wav_h	./dr_wav.h	115;"	d
+drwav	./dr_wav.h	/^} drwav;$/;"	t	typeref:struct:__anon11
+drwavGUID_W64_DATA	./dr_wav.h	/^static const drwav_uint8 drwavGUID_W64_DATA[16] = {0x64,0x61,0x74,0x61, 0xF3,0xAC, 0xD3,0x11, 0x8C,0xD1, 0x00,0xC0,0x4F,0x8E,0xDB,0x8A};    \/\/ 61746164-ACF3-11D3-8CD1-00C04F8EDB8A$/;"	v
+drwavGUID_W64_FACT	./dr_wav.h	/^static const drwav_uint8 drwavGUID_W64_FACT[16] = {0x66,0x61,0x63,0x74, 0xF3,0xAC, 0xD3,0x11, 0x8C,0xD1, 0x00,0xC0,0x4F,0x8E,0xDB,0x8A};    \/\/ 74636166-ACF3-11D3-8CD1-00C04F8EDB8A$/;"	v
+drwavGUID_W64_FMT	./dr_wav.h	/^static const drwav_uint8 drwavGUID_W64_FMT [16] = {0x66,0x6D,0x74,0x20, 0xF3,0xAC, 0xD3,0x11, 0x8C,0xD1, 0x00,0xC0,0x4F,0x8E,0xDB,0x8A};    \/\/ 20746D66-ACF3-11D3-8CD1-00C04F8EDB8A$/;"	v
+drwavGUID_W64_JUNK	./dr_wav.h	/^static const drwav_uint8 drwavGUID_W64_JUNK[16] = {0x6A,0x75,0x6E,0x6B, 0xF3,0xAC, 0xD3,0x11, 0x8C,0xD1, 0x00,0xC0,0x4F,0x8E,0xDB,0x8A};    \/\/ 6B6E756A-ACF3-11D3-8CD1-00C04F8EDB8A$/;"	v
+drwavGUID_W64_RIFF	./dr_wav.h	/^static const drwav_uint8 drwavGUID_W64_RIFF[16] = {0x72,0x69,0x66,0x66, 0x2E,0x91, 0xCF,0x11, 0xA5,0xD6, 0x28,0xDB,0x04,0xC1,0x00,0x00};    \/\/ 66666972-912E-11CF-A5D6-28DB04C10000$/;"	v
+drwavGUID_W64_WAVE	./dr_wav.h	/^static const drwav_uint8 drwavGUID_W64_WAVE[16] = {0x77,0x61,0x76,0x65, 0xF3,0xAC, 0xD3,0x11, 0x8C,0xD1, 0x00,0xC0,0x4F,0x8E,0xDB,0x8A};    \/\/ 65766177-ACF3-11D3-8CD1-00C04F8EDB8A$/;"	v
+drwav__alaw_to_s16	./dr_wav.h	/^static DRWAV_INLINE drwav_int16 drwav__alaw_to_s16(drwav_uint8 sampleIn)$/;"	f
+drwav__bytes_to_guid	./dr_wav.h	/^static DRWAV_INLINE void drwav__bytes_to_guid(const unsigned char* data, drwav_uint8* guid)$/;"	f
+drwav__bytes_to_s16	./dr_wav.h	/^static DRWAV_INLINE short drwav__bytes_to_s16(const unsigned char* data)$/;"	f
+drwav__bytes_to_u16	./dr_wav.h	/^static DRWAV_INLINE unsigned short drwav__bytes_to_u16(const unsigned char* data)$/;"	f
+drwav__bytes_to_u32	./dr_wav.h	/^static DRWAV_INLINE unsigned int drwav__bytes_to_u32(const unsigned char* data)$/;"	f
+drwav__bytes_to_u64	./dr_wav.h	/^static DRWAV_INLINE drwav_uint64 drwav__bytes_to_u64(const unsigned char* data)$/;"	f
+drwav__chunk_header	./dr_wav.h	/^} drwav__chunk_header;$/;"	t	typeref:struct:__anon15
+drwav__fourcc_equal	./dr_wav.h	/^static DRWAV_INLINE drwav_bool32 drwav__fourcc_equal(const unsigned char* a, const char* b)$/;"	f
+drwav__guid_equal	./dr_wav.h	/^static DRWAV_INLINE drwav_bool32 drwav__guid_equal(const drwav_uint8 a[16], const drwav_uint8 b[16])$/;"	f
+drwav__ieee_to_f32	./dr_wav.h	/^static void drwav__ieee_to_f32(float* pOut, const unsigned char* pIn, size_t sampleCount, unsigned short bytesPerSample)$/;"	f
+drwav__ieee_to_s16	./dr_wav.h	/^static void drwav__ieee_to_s16(drwav_int16* pOut, const unsigned char* pIn, size_t totalSampleCount, unsigned short bytesPerSample)$/;"	f
+drwav__ieee_to_s32	./dr_wav.h	/^static void drwav__ieee_to_s32(drwav_int32* pOut, const unsigned char* pIn, size_t totalSampleCount, unsigned short bytesPerSample)$/;"	f
+drwav__is_compressed_format_tag	./dr_wav.h	/^static DRWAV_INLINE drwav_bool32 drwav__is_compressed_format_tag(drwav_uint16 formatTag)$/;"	f
+drwav__is_little_endian	./dr_wav.h	/^static DRWAV_INLINE int drwav__is_little_endian()$/;"	f
+drwav__memory_stream	./dr_wav.h	/^} drwav__memory_stream;$/;"	t	typeref:struct:__anon7
+drwav__memory_stream_write	./dr_wav.h	/^} drwav__memory_stream_write;$/;"	t	typeref:struct:__anon8
+drwav__mulaw_to_s16	./dr_wav.h	/^static DRWAV_INLINE drwav_int16 drwav__mulaw_to_s16(drwav_uint8 sampleIn)$/;"	f
+drwav__on_read_memory	./dr_wav.h	/^static size_t drwav__on_read_memory(void* pUserData, void* pBufferOut, size_t bytesToRead)$/;"	f
+drwav__on_read_stdio	./dr_wav.h	/^static size_t drwav__on_read_stdio(void* pUserData, void* pBufferOut, size_t bytesToRead)$/;"	f
+drwav__on_seek_memory	./dr_wav.h	/^static drwav_bool32 drwav__on_seek_memory(void* pUserData, int offset, drwav_seek_origin origin)$/;"	f
+drwav__on_seek_memory_write	./dr_wav.h	/^static drwav_bool32 drwav__on_seek_memory_write(void* pUserData, int offset, drwav_seek_origin origin)$/;"	f
+drwav__on_seek_stdio	./dr_wav.h	/^static drwav_bool32 drwav__on_seek_stdio(void* pUserData, int offset, drwav_seek_origin origin)$/;"	f
+drwav__on_write_memory	./dr_wav.h	/^static size_t drwav__on_write_memory(void* pUserData, const void* pDataIn, size_t bytesToWrite)$/;"	f
+drwav__on_write_stdio	./dr_wav.h	/^static size_t drwav__on_write_stdio(void* pUserData, const void* pData, size_t bytesToWrite)$/;"	f
+drwav__pcm_to_f32	./dr_wav.h	/^static void drwav__pcm_to_f32(float* pOut, const unsigned char* pIn, size_t sampleCount, unsigned short bytesPerSample)$/;"	f
+drwav__pcm_to_s16	./dr_wav.h	/^static void drwav__pcm_to_s16(drwav_int16* pOut, const unsigned char* pIn, size_t totalSampleCount, unsigned short bytesPerSample)$/;"	f
+drwav__pcm_to_s32	./dr_wav.h	/^static void drwav__pcm_to_s32(drwav_int32* pOut, const unsigned char* pIn, size_t totalSampleCount, unsigned short bytesPerSample)$/;"	f
+drwav__read_and_close_f32	./dr_wav.h	/^float* drwav__read_and_close_f32(drwav* pWav, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav__read_and_close_s16	./dr_wav.h	/^drwav_int16* drwav__read_and_close_s16(drwav* pWav, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav__read_and_close_s32	./dr_wav.h	/^drwav_int32* drwav__read_and_close_s32(drwav* pWav, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav__read_chunk_header	./dr_wav.h	/^static drwav_bool32 drwav__read_chunk_header(drwav_read_proc onRead, void* pUserData, drwav_container container, drwav_uint64* pRunningBytesReadOut, drwav__chunk_header* pHeaderOut)$/;"	f
+drwav__read_fmt	./dr_wav.h	/^static drwav_bool32 drwav__read_fmt(drwav_read_proc onRead, drwav_seek_proc onSeek, void* pUserData, drwav_container container, drwav_uint64* pRunningBytesReadOut, drwav_fmt* fmtOut)$/;"	f
+drwav__seek_forward	./dr_wav.h	/^static drwav_bool32 drwav__seek_forward(drwav_seek_proc onSeek, drwav_uint64 offset, void* pUserData)$/;"	f
+drwav_alaw_to_f32	./dr_wav.h	/^void drwav_alaw_to_f32(float* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_alaw_to_s16	./dr_wav.h	/^void drwav_alaw_to_s16(drwav_int16* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_alaw_to_s32	./dr_wav.h	/^void drwav_alaw_to_s32(drwav_int32* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_align	./dr_wav.h	704;"	d
+drwav_assert	./dr_wav.h	709;"	d
+drwav_bool32	./dr_wav.h	/^typedef drwav_uint32     drwav_bool32;$/;"	t
+drwav_bool8	./dr_wav.h	/^typedef drwav_uint8      drwav_bool8;$/;"	t
+drwav_clamp	./dr_wav.h	707;"	d
+drwav_close	./dr_wav.h	/^void drwav_close(drwav* pWav)$/;"	f
+drwav_container	./dr_wav.h	/^} drwav_container;$/;"	t	typeref:enum:__anon6
+drwav_container_riff	./dr_wav.h	/^    drwav_container_riff,$/;"	e	enum:__anon6
+drwav_container_w64	./dr_wav.h	/^    drwav_container_w64$/;"	e	enum:__anon6
+drwav_copy_memory	./dr_wav.h	710;"	d
+drwav_countof	./dr_wav.h	703;"	d
+drwav_data_format	./dr_wav.h	/^} drwav_data_format;$/;"	t	typeref:struct:__anon9
+drwav_f32_to_s16	./dr_wav.h	/^void drwav_f32_to_s16(drwav_int16* pOut, const float* pIn, size_t sampleCount)$/;"	f
+drwav_f32_to_s32	./dr_wav.h	/^void drwav_f32_to_s32(drwav_int32* pOut, const float* pIn, size_t sampleCount)$/;"	f
+drwav_f64_to_f32	./dr_wav.h	/^void drwav_f64_to_f32(float* pOut, const double* pIn, size_t sampleCount)$/;"	f
+drwav_f64_to_s16	./dr_wav.h	/^void drwav_f64_to_s16(drwav_int16* pOut, const double* pIn, size_t sampleCount)$/;"	f
+drwav_f64_to_s32	./dr_wav.h	/^void drwav_f64_to_s32(drwav_int32* pOut, const double* pIn, size_t sampleCount)$/;"	f
+drwav_fmt	./dr_wav.h	/^} drwav_fmt;$/;"	t	typeref:struct:__anon10
+drwav_free	./dr_wav.h	/^void drwav_free(void* pDataReturnedByOpenAndRead)$/;"	f
+drwav_init	./dr_wav.h	/^drwav_bool32 drwav_init(drwav* pWav, drwav_read_proc onRead, drwav_seek_proc onSeek, void* pUserData)$/;"	f
+drwav_init_file	./dr_wav.h	/^drwav_bool32 drwav_init_file(drwav* pWav, const char* filename)$/;"	f
+drwav_init_file_write	./dr_wav.h	/^drwav_bool32 drwav_init_file_write(drwav* pWav, const char* filename, const drwav_data_format* pFormat)$/;"	f
+drwav_init_memory	./dr_wav.h	/^drwav_bool32 drwav_init_memory(drwav* pWav, const void* data, size_t dataSize)$/;"	f
+drwav_init_memory_write	./dr_wav.h	/^drwav_bool32 drwav_init_memory_write(drwav* pWav, void** ppData, size_t* pDataSize, const drwav_data_format* pFormat)$/;"	f
+drwav_init_write	./dr_wav.h	/^drwav_bool32 drwav_init_write(drwav* pWav, const drwav_data_format* pFormat, drwav_write_proc onWrite, drwav_seek_proc onSeek, void* pUserData)$/;"	f
+drwav_int16	./dr_wav.h	/^typedef   signed short   drwav_int16;$/;"	t
+drwav_int16	./dr_wav.h	/^typedef int16_t          drwav_int16;$/;"	t
+drwav_int32	./dr_wav.h	/^typedef   signed int     drwav_int32;$/;"	t
+drwav_int32	./dr_wav.h	/^typedef int32_t          drwav_int32;$/;"	t
+drwav_int64	./dr_wav.h	/^typedef   signed __int64 drwav_int64;$/;"	t
+drwav_int64	./dr_wav.h	/^typedef int64_t          drwav_int64;$/;"	t
+drwav_int8	./dr_wav.h	/^typedef   signed char    drwav_int8;$/;"	t
+drwav_int8	./dr_wav.h	/^typedef int8_t           drwav_int8;$/;"	t
+drwav_max	./dr_wav.h	706;"	d
+drwav_min	./dr_wav.h	705;"	d
+drwav_mulaw_to_f32	./dr_wav.h	/^void drwav_mulaw_to_f32(float* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_mulaw_to_s16	./dr_wav.h	/^void drwav_mulaw_to_s16(drwav_int16* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_mulaw_to_s32	./dr_wav.h	/^void drwav_mulaw_to_s32(drwav_int32* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_open	./dr_wav.h	/^drwav* drwav_open(drwav_read_proc onRead, drwav_seek_proc onSeek, void* pUserData)$/;"	f
+drwav_open_and_read_f32	./dr_wav.h	/^float* drwav_open_and_read_f32(drwav_read_proc onRead, drwav_seek_proc onSeek, void* pUserData, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_file_f32	./dr_wav.h	/^float* drwav_open_and_read_file_f32(const char* filename, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_file_s16	./dr_wav.h	/^drwav_int16* drwav_open_and_read_file_s16(const char* filename, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_file_s32	./dr_wav.h	/^drwav_int32* drwav_open_and_read_file_s32(const char* filename, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_memory_f32	./dr_wav.h	/^float* drwav_open_and_read_memory_f32(const void* data, size_t dataSize, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_memory_s16	./dr_wav.h	/^drwav_int16* drwav_open_and_read_memory_s16(const void* data, size_t dataSize, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_memory_s32	./dr_wav.h	/^drwav_int32* drwav_open_and_read_memory_s32(const void* data, size_t dataSize, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_s16	./dr_wav.h	/^drwav_int16* drwav_open_and_read_s16(drwav_read_proc onRead, drwav_seek_proc onSeek, void* pUserData, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_and_read_s32	./dr_wav.h	/^drwav_int32* drwav_open_and_read_s32(drwav_read_proc onRead, drwav_seek_proc onSeek, void* pUserData, unsigned int* channels, unsigned int* sampleRate, drwav_uint64* totalSampleCount)$/;"	f
+drwav_open_file	./dr_wav.h	/^drwav* drwav_open_file(const char* filename)$/;"	f
+drwav_open_file_write	./dr_wav.h	/^drwav* drwav_open_file_write(const char* filename, const drwav_data_format* pFormat)$/;"	f
+drwav_open_memory	./dr_wav.h	/^drwav* drwav_open_memory(const void* data, size_t dataSize)$/;"	f
+drwav_open_memory_write	./dr_wav.h	/^drwav* drwav_open_memory_write(void** ppData, size_t* pDataSize, const drwav_data_format* pFormat)$/;"	f
+drwav_open_write	./dr_wav.h	/^drwav* drwav_open_write(const drwav_data_format* pFormat, drwav_write_proc onWrite, drwav_seek_proc onSeek, void* pUserData)$/;"	f
+drwav_read	./dr_wav.h	/^drwav_uint64 drwav_read(drwav* pWav, drwav_uint64 samplesToRead, void* pBufferOut)$/;"	f
+drwav_read_f32	./dr_wav.h	/^drwav_uint64 drwav_read_f32(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_f32__alaw	./dr_wav.h	/^drwav_uint64 drwav_read_f32__alaw(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_f32__ieee	./dr_wav.h	/^drwav_uint64 drwav_read_f32__ieee(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_f32__ima	./dr_wav.h	/^drwav_uint64 drwav_read_f32__ima(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_f32__msadpcm	./dr_wav.h	/^drwav_uint64 drwav_read_f32__msadpcm(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_f32__mulaw	./dr_wav.h	/^drwav_uint64 drwav_read_f32__mulaw(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_f32__pcm	./dr_wav.h	/^drwav_uint64 drwav_read_f32__pcm(drwav* pWav, drwav_uint64 samplesToRead, float* pBufferOut)$/;"	f
+drwav_read_proc	./dr_wav.h	/^typedef size_t (* drwav_read_proc)(void* pUserData, void* pBufferOut, size_t bytesToRead);$/;"	t
+drwav_read_raw	./dr_wav.h	/^size_t drwav_read_raw(drwav* pWav, size_t bytesToRead, void* pBufferOut)$/;"	f
+drwav_read_s16	./dr_wav.h	/^drwav_uint64 drwav_read_s16(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s16__alaw	./dr_wav.h	/^drwav_uint64 drwav_read_s16__alaw(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s16__ieee	./dr_wav.h	/^drwav_uint64 drwav_read_s16__ieee(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s16__ima	./dr_wav.h	/^drwav_uint64 drwav_read_s16__ima(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s16__msadpcm	./dr_wav.h	/^drwav_uint64 drwav_read_s16__msadpcm(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s16__mulaw	./dr_wav.h	/^drwav_uint64 drwav_read_s16__mulaw(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s16__pcm	./dr_wav.h	/^drwav_uint64 drwav_read_s16__pcm(drwav* pWav, drwav_uint64 samplesToRead, drwav_int16* pBufferOut)$/;"	f
+drwav_read_s32	./dr_wav.h	/^drwav_uint64 drwav_read_s32(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_read_s32__alaw	./dr_wav.h	/^drwav_uint64 drwav_read_s32__alaw(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_read_s32__ieee	./dr_wav.h	/^drwav_uint64 drwav_read_s32__ieee(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_read_s32__ima	./dr_wav.h	/^drwav_uint64 drwav_read_s32__ima(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_read_s32__msadpcm	./dr_wav.h	/^drwav_uint64 drwav_read_s32__msadpcm(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_read_s32__mulaw	./dr_wav.h	/^drwav_uint64 drwav_read_s32__mulaw(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_read_s32__pcm	./dr_wav.h	/^drwav_uint64 drwav_read_s32__pcm(drwav* pWav, drwav_uint64 samplesToRead, drwav_int32* pBufferOut)$/;"	f
+drwav_s16_to_f32	./dr_wav.h	/^void drwav_s16_to_f32(float* pOut, const drwav_int16* pIn, size_t sampleCount)$/;"	f
+drwav_s16_to_s32	./dr_wav.h	/^void drwav_s16_to_s32(drwav_int32* pOut, const drwav_int16* pIn, size_t sampleCount)$/;"	f
+drwav_s24_to_f32	./dr_wav.h	/^void drwav_s24_to_f32(float* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_s24_to_s16	./dr_wav.h	/^void drwav_s24_to_s16(drwav_int16* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_s24_to_s32	./dr_wav.h	/^void drwav_s24_to_s32(drwav_int32* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_s32_to_f32	./dr_wav.h	/^void drwav_s32_to_f32(float* pOut, const drwav_int32* pIn, size_t sampleCount)$/;"	f
+drwav_s32_to_s16	./dr_wav.h	/^void drwav_s32_to_s16(drwav_int16* pOut, const drwav_int32* pIn, size_t sampleCount)$/;"	f
+drwav_seek_origin	./dr_wav.h	/^} drwav_seek_origin;$/;"	t	typeref:enum:__anon5
+drwav_seek_origin_current	./dr_wav.h	/^    drwav_seek_origin_current$/;"	e	enum:__anon5
+drwav_seek_origin_start	./dr_wav.h	/^    drwav_seek_origin_start,$/;"	e	enum:__anon5
+drwav_seek_proc	./dr_wav.h	/^typedef drwav_bool32 (* drwav_seek_proc)(void* pUserData, int offset, drwav_seek_origin origin);$/;"	t
+drwav_seek_to_first_sample	./dr_wav.h	/^drwav_bool32 drwav_seek_to_first_sample(drwav* pWav)$/;"	f
+drwav_seek_to_sample	./dr_wav.h	/^drwav_bool32 drwav_seek_to_sample(drwav* pWav, drwav_uint64 sample)$/;"	f
+drwav_u8_to_f32	./dr_wav.h	/^void drwav_u8_to_f32(float* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_u8_to_s16	./dr_wav.h	/^void drwav_u8_to_s16(drwav_int16* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_u8_to_s32	./dr_wav.h	/^void drwav_u8_to_s32(drwav_int32* pOut, const drwav_uint8* pIn, size_t sampleCount)$/;"	f
+drwav_uint16	./dr_wav.h	/^typedef uint16_t         drwav_uint16;$/;"	t
+drwav_uint16	./dr_wav.h	/^typedef unsigned short   drwav_uint16;$/;"	t
+drwav_uint32	./dr_wav.h	/^typedef uint32_t         drwav_uint32;$/;"	t
+drwav_uint32	./dr_wav.h	/^typedef unsigned int     drwav_uint32;$/;"	t
+drwav_uint64	./dr_wav.h	/^typedef uint64_t         drwav_uint64;$/;"	t
+drwav_uint64	./dr_wav.h	/^typedef unsigned __int64 drwav_uint64;$/;"	t
+drwav_uint8	./dr_wav.h	/^typedef uint8_t          drwav_uint8;$/;"	t
+drwav_uint8	./dr_wav.h	/^typedef unsigned char    drwav_uint8;$/;"	t
+drwav_uninit	./dr_wav.h	/^void drwav_uninit(drwav* pWav)$/;"	f
+drwav_write	./dr_wav.h	/^drwav_uint64 drwav_write(drwav* pWav, drwav_uint64 samplesToWrite, const void* pData)$/;"	f
+drwav_write_proc	./dr_wav.h	/^typedef size_t (* drwav_write_proc)(void* pUserData, const void* pData, size_t bytesToWrite);$/;"	t
+drwav_write_raw	./dr_wav.h	/^size_t drwav_write_raw(drwav* pWav, size_t bytesToWrite, const void* pData)$/;"	f
+drwav_zero_memory	./dr_wav.h	711;"	d
+extendedSize	./dr_wav.h	/^    drwav_uint16 extendedSize;$/;"	m	struct:__anon10
+fmt	./dr_wav.h	/^    drwav_fmt fmt;$/;"	m	struct:__anon11
+format	./dr_wav.h	/^    drwav_uint32 format;        \/\/ DR_WAVE_FORMAT_*$/;"	m	struct:__anon9
+formatTag	./dr_wav.h	/^    drwav_uint16 formatTag;$/;"	m	struct:__anon10
+fourcc	./dr_wav.h	/^        drwav_uint8 fourcc[4];$/;"	m	union:__anon15::__anon16
+frame_counter	./vad.h	/^    int32_t frame_counter;$/;"	m	struct:VadInstT_
+g_drwavAlawTable	./dr_wav.h	/^static unsigned short g_drwavAlawTable[256] = {$/;"	v
+g_drwavMulawTable	./dr_wav.h	/^static unsigned short g_drwavMulawTable[256] = {$/;"	v
+guid	./dr_wav.h	/^        drwav_uint8 guid[16];$/;"	m	union:__anon15::__anon16
+hp_filter_state	./vad.h	/^    int16_t hp_filter_state[4];$/;"	m	struct:VadInstT_
+iCurrentSample	./dr_wav.h	/^        drwav_uint64 iCurrentSample;    \/\/ The index of the next sample that will be read by drwav_read_*(). This is used with "totalSampleCount" to ensure we don't read excess samples at the end of the last block.$/;"	m	struct:__anon11::__anon12
+id	./dr_wav.h	/^    } id;$/;"	m	struct:__anon15	typeref:union:__anon15::__anon16
+ima	./dr_wav.h	/^    } ima;$/;"	m	struct:__anon11	typeref:struct:__anon11::__anon14
+index_vector	./vad.h	/^    int16_t index_vector[16 * kNumChannels];$/;"	m	struct:VadInstT_
+individual	./vad.h	/^    int16_t individual[3];$/;"	m	struct:VadInstT_
+info_arch	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_version	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+init_flag	./vad.h	/^    int init_flag;$/;"	m	struct:VadInstT_
+kAllPassCoefsQ15	./vad.c	/^static const int16_t kAllPassCoefsQ15[2] = {20972, 5571};$/;"	v	file:
+kBackEta	./vad.c	/^static const int16_t kBackEta = 154; \/\/ Q8$/;"	v	file:
+kCompVar	./vad.c	/^static const int32_t kCompVar = 22005;$/;"	v	file:
+kDefaultMode	./vad.c	/^static const short kDefaultMode = 0;$/;"	v	file:
+kGlobalThresholdAGG	./vad.c	/^static const int16_t kGlobalThresholdAGG[3] = {285, 260, 285};$/;"	v	file:
+kGlobalThresholdLBR	./vad.c	/^static const int16_t kGlobalThresholdLBR[3] = {100, 80, 100};$/;"	v	file:
+kGlobalThresholdQ	./vad.c	/^static const int16_t kGlobalThresholdQ[3] = {57, 48, 57};$/;"	v	file:
+kGlobalThresholdVAG	./vad.c	/^static const int16_t kGlobalThresholdVAG[3] = {1100, 1050, 1100};$/;"	v	file:
+kHpPoleCoefs	./vad.c	/^static const int16_t kHpPoleCoefs[3] = {16384, -7756, 5620};$/;"	v	file:
+kHpZeroCoefs	./vad.c	/^static const int16_t kHpZeroCoefs[3] = {6631, -13262, 6631};$/;"	v	file:
+kInitCheck	./vad.c	/^static const int kInitCheck = 42;$/;"	v	file:
+kLocalThresholdAGG	./vad.c	/^static const int16_t kLocalThresholdAGG[3] = {82, 78, 82};$/;"	v	file:
+kLocalThresholdLBR	./vad.c	/^static const int16_t kLocalThresholdLBR[3] = {37, 32, 37};$/;"	v	file:
+kLocalThresholdQ	./vad.c	/^static const int16_t kLocalThresholdQ[3] = {24, 21, 24};$/;"	v	file:
+kLocalThresholdVAG	./vad.c	/^static const int16_t kLocalThresholdVAG[3] = {94, 94, 94};$/;"	v	file:
+kLog2Exp	./vad.c	/^static const int16_t kLog2Exp = 5909;  \/\/ log2(exp(1)) in Q12.$/;"	v	file:
+kLogConst	./vad.c	/^static const int16_t kLogConst = 24660;  \/\/ 160*log10(2) in Q9.$/;"	v	file:
+kLogEnergyIntPart	./vad.c	/^static const int16_t kLogEnergyIntPart = 14336;  \/\/ 14 in Q10$/;"	v	file:
+kMaxSpeechFrames	./vad.c	/^static const int16_t kMaxSpeechFrames = 6;$/;"	v	file:
+kMaximumNoise	./vad.c	/^static const int16_t kMaximumNoise[kNumChannels] = {$/;"	v	file:
+kMaximumSpeech	./vad.c	/^static const int16_t kMaximumSpeech[kNumChannels] = {$/;"	v	file:
+kMinEnergy	./vad.h	/^    kMinEnergy = 10$/;"	e	enum:__anon4
+kMinStd	./vad.c	/^static const int16_t kMinStd = 384;$/;"	v	file:
+kMinimumDifference	./vad.c	/^static const int16_t kMinimumDifference[kNumChannels] = {$/;"	v	file:
+kMinimumMean	./vad.c	/^static const int16_t kMinimumMean[kNumGaussians] = {640, 768};$/;"	v	file:
+kNoiseDataMeans	./vad.c	/^static const int16_t kNoiseDataMeans[kTableSize] = {$/;"	v	file:
+kNoiseDataStds	./vad.c	/^static const int16_t kNoiseDataStds[kTableSize] = {$/;"	v	file:
+kNoiseDataWeights	./vad.c	/^static const int16_t kNoiseDataWeights[kTableSize] = {$/;"	v	file:
+kNoiseUpdateConst	./vad.c	/^static const int16_t kNoiseUpdateConst = 655; \/\/ Q15$/;"	v	file:
+kNumChannels	./vad.h	/^    kNumChannels = 6$/;"	e	enum:__anon1
+kNumGaussians	./vad.h	/^    kNumGaussians = 2$/;"	e	enum:__anon2
+kOffsetVector	./vad.c	/^static const int16_t kOffsetVector[6] = {368, 368, 272, 176, 176, 176};$/;"	v	file:
+kOverHangMax1AGG	./vad.c	/^static const int16_t kOverHangMax1AGG[3] = {6, 3, 2};$/;"	v	file:
+kOverHangMax1LBR	./vad.c	/^static const int16_t kOverHangMax1LBR[3] = {8, 4, 3};$/;"	v	file:
+kOverHangMax1Q	./vad.c	/^static const int16_t kOverHangMax1Q[3] = {8, 4, 3};$/;"	v	file:
+kOverHangMax1VAG	./vad.c	/^static const int16_t kOverHangMax1VAG[3] = {6, 3, 2};$/;"	v	file:
+kOverHangMax2AGG	./vad.c	/^static const int16_t kOverHangMax2AGG[3] = {9, 5, 3};$/;"	v	file:
+kOverHangMax2LBR	./vad.c	/^static const int16_t kOverHangMax2LBR[3] = {14, 7, 5};$/;"	v	file:
+kOverHangMax2Q	./vad.c	/^static const int16_t kOverHangMax2Q[3] = {14, 7, 5};$/;"	v	file:
+kOverHangMax2VAG	./vad.c	/^static const int16_t kOverHangMax2VAG[3] = {9, 5, 3};$/;"	v	file:
+kSmoothingDown	./vad.c	/^static const int16_t kSmoothingDown = 6553;  \/\/ 0.2 in Q15.$/;"	v	file:
+kSmoothingUp	./vad.c	/^static const int16_t kSmoothingUp = 32439;  \/\/ 0.99 in Q15.$/;"	v	file:
+kSpectrumWeight	./vad.c	/^static const int16_t kSpectrumWeight[kNumChannels] = {6, 8, 10, 12, 14, 16};$/;"	v	file:
+kSpeechDataMeans	./vad.c	/^static const int16_t kSpeechDataMeans[kTableSize] = {$/;"	v	file:
+kSpeechDataStds	./vad.c	/^static const int16_t kSpeechDataStds[kTableSize] = {$/;"	v	file:
+kSpeechDataWeights	./vad.c	/^static const int16_t kSpeechDataWeights[kTableSize] = {$/;"	v	file:
+kSpeechUpdateConst	./vad.c	/^static const int16_t kSpeechUpdateConst = 6554; \/\/ Q15$/;"	v	file:
+kTableSize	./vad.h	/^    kTableSize = kNumChannels * kNumGaussians$/;"	e	enum:__anon3
+low_value_vector	./vad.h	/^    int16_t low_value_vector[16 * kNumChannels];$/;"	m	struct:VadInstT_
+lower_state	./vad.h	/^    int16_t lower_state[5];$/;"	m	struct:VadInstT_
+main	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	./CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	./CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	./main.c	/^int main(int argc, char *argv[]) {$/;"	f
+mean_value	./vad.h	/^    int16_t mean_value[kNumChannels];$/;"	m	struct:VadInstT_
+memoryStream	./dr_wav.h	/^    drwav__memory_stream memoryStream;$/;"	m	struct:__anon11
+memoryStreamWrite	./dr_wav.h	/^    drwav__memory_stream_write memoryStreamWrite;$/;"	m	struct:__anon11
+msadpcm	./dr_wav.h	/^    } msadpcm;$/;"	m	struct:__anon11	typeref:struct:__anon11::__anon13
+nanotimer	./timing.h	/^uint64_t nanotimer() {$/;"	f
+noise_means	./vad.h	/^    int16_t noise_means[kTableSize];$/;"	m	struct:VadInstT_
+noise_stds	./vad.h	/^    int16_t noise_stds[kTableSize];$/;"	m	struct:VadInstT_
+now	./timing.h	/^static double now() {$/;"	f
+nullptr	./main.c	15;"	d	file:
+num_of_speech	./vad.h	/^    int16_t num_of_speech;$/;"	m	struct:VadInstT_
+onRead	./dr_wav.h	/^    drwav_read_proc onRead;$/;"	m	struct:__anon11
+onSeek	./dr_wav.h	/^    drwav_seek_proc onSeek;$/;"	m	struct:__anon11
+onWrite	./dr_wav.h	/^    drwav_write_proc onWrite;$/;"	m	struct:__anon11
+over_hang	./vad.h	/^    int16_t over_hang;  \/\/ Over Hang$/;"	m	struct:VadInstT_
+over_hang_max_1	./vad.h	/^    int16_t over_hang_max_1[3];$/;"	m	struct:VadInstT_
+over_hang_max_2	./vad.h	/^    int16_t over_hang_max_2[3];$/;"	m	struct:VadInstT_
+pDataSize	./dr_wav.h	/^    size_t* pDataSize;$/;"	m	struct:__anon8
+pUserData	./dr_wav.h	/^    void* pUserData;$/;"	m	struct:__anon11
+paddingSize	./dr_wav.h	/^    unsigned int paddingSize;$/;"	m	struct:__anon15
+pcmRead_int16	./main.c	/^int16_t *pcmRead_int16(char* filename, uint32_t* sampleRate, uint64_t* totalSampleCount) {$/;"	f
+ppData	./dr_wav.h	/^    void** ppData;$/;"	m	struct:__anon8
+predictor	./dr_wav.h	/^        drwav_int32  predictor[2];$/;"	m	struct:__anon11::__anon14
+predictor	./dr_wav.h	/^        drwav_uint16 predictor[2];$/;"	m	struct:__anon11::__anon13
+prevSamples	./dr_wav.h	/^        drwav_int32  prevSamples[2][2]; \/\/ The previous 2 samples for each channel (2 channels at most).$/;"	m	struct:__anon11::__anon13
+resampleData	./vad.c	/^void resampleData(const int16_t *sourceData, int32_t sampleRate, uint32_t srcSize, int16_t *destinationData,$/;"	f
+sampleRate	./dr_wav.h	/^    drwav_uint32 sampleRate;$/;"	m	struct:__anon10
+sampleRate	./dr_wav.h	/^    drwav_uint32 sampleRate;$/;"	m	struct:__anon11
+sampleRate	./dr_wav.h	/^    drwav_uint32 sampleRate;$/;"	m	struct:__anon9
+sizeInBytes	./dr_wav.h	/^    drwav_uint64 sizeInBytes;$/;"	m	struct:__anon15
+speech_means	./vad.h	/^    int16_t speech_means[kTableSize];$/;"	m	struct:VadInstT_
+speech_stds	./vad.h	/^    int16_t speech_stds[kTableSize];$/;"	m	struct:VadInstT_
+stepIndex	./dr_wav.h	/^        drwav_int32  stepIndex[2];$/;"	m	struct:__anon11::__anon14
+subFormat	./dr_wav.h	/^    drwav_uint8 subFormat[16];$/;"	m	struct:__anon10
+total	./vad.h	/^    int16_t total[3];$/;"	m	struct:VadInstT_
+totalSampleCount	./dr_wav.h	/^    drwav_uint64 totalSampleCount;$/;"	m	struct:__anon11
+translatedFormatTag	./dr_wav.h	/^    drwav_uint16 translatedFormatTag;$/;"	m	struct:__anon11
+upper_state	./vad.h	/^    int16_t upper_state[5];$/;"	m	struct:VadInstT_
+vad	./main.c	/^void vad(char *in_file, char* type) {$/;"	f
+vad	./vad.h	/^    int vad;$/;"	m	struct:VadInstT_
+vadProcess	./main.c	/^int vadProcess(int16_t *buffer, uint32_t sampleRate, size_t samplesCount, int16_t vad_mode, int per_ms_frames) {$/;"	f
+validBitsPerSample	./dr_wav.h	/^    drwav_uint16 validBitsPerSample;$/;"	m	struct:__anon10
+wavRead_int16	./main.c	/^int16_t *wavRead_int16(char *filename, uint32_t *sampleRate, uint64_t *totalSampleCount) {$/;"	f

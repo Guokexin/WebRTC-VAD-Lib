@@ -1,0 +1,1 @@
+/home/gkx/magics_vad/CMakeFiles/vad.dir
